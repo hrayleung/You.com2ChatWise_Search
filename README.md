@@ -316,6 +316,3 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Project Name**: `you.com2chatwise_search`  
-**Version**: 1.0.0  
-**Maintainer**: Add your information here
