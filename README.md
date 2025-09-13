@@ -77,7 +77,7 @@ This service calls the You.com Search API (`https://api.ydc-index.io/v1/search`)
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/hrayleung/You.com2ChatWise_Search)
    cd chatwise-proxy
    ```
 
