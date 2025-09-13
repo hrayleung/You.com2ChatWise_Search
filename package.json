@@ -1,0 +1,17 @@
+{
+  "name": "you.com2chatwise_search",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Proxy to convert You.com Search API responses into ChatWise format",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "express": "^5.1.0"
+  }
+}
